@@ -3,6 +3,8 @@ Code repository for senior thesis project
 
 *Equity, Mobility, and Sustainability: Analyzing Geographic and Demographic Disparities in Urban Bikeability*
 
+The skeleton for code involved in bikeability curve calculations was sourced from the work of Reggiani et al. in "Understanding bikeability: a methodology to assess urban networks." The source code can be found at: https://github.com/giuliaregg/UnderstandingBikability
+
 ## Data
 Fine-grained data was pulled from OpenStreetMap and saved using the `V2_save_raw_graph.ipynb` notebook. 
 
